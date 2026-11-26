@@ -10,7 +10,7 @@ import sys
 
 LINE = (
     "Extreme ironing relay: four athletes iron a shirt while abseiling "
-    "down a cliff \u2014 fastest wrinkle-free shirt wins."
+    "down a cliff \u2014 fastest wrinkle-free shirt takes gold."
 )
 
 
